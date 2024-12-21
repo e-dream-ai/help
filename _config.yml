@@ -1,10 +1,4 @@
 title: How to Use the App
-description: >- # this means to ignore newlines until "baseurl:"
-  Remove the footer.
 baseurl: "/help"
 url: ""
-
-# Build settings
 theme: minima
-plugins:
-  - jekyll-feed
