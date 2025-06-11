@@ -1,11 +1,11 @@
+Setup, install dependencies:
+```
+bundle install
+```
+
 To build:
 ```
 jekyll serve
-```
-
-To install:
-```
-bundle install
 ```
 
 To release:
