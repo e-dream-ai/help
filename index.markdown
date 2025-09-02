@@ -2,6 +2,10 @@
 layout: home
 ---
 
-<video class="demo-video" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315"
+ src="https://www.youtube.com/embed/yHrwo4asw4Y?si=SFBEZNR6_ECSxfgb"
+ title="YouTube video player"
+ frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+ encrypted-media; gyroscope; picture-in-picture; web-share"
+ referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
